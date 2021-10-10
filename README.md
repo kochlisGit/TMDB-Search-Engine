@@ -1,4 +1,4 @@
-# MovieRadar
+# Movie Search Engine
 An implementation of an advanced movie search engine, using TMDB's data &amp; Lucene's indexing, in JavaFX 11.
 
 # Description
