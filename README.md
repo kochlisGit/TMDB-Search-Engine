@@ -28,3 +28,11 @@ The core implements the following queries. However, one can combine those querie
 # Graphic User Interface (GUI)
 The GUI is implementated using JavaFX and external control libraries, such as controlsFX & animateFX. It comes with a default without that is very nicely customized,
 using **FontAwesome Glyphs** and **Material Design** colors.
+
+# Required libraries
+In order to run the engine, You will need to download the following libraries:
+1. JsonIter
+2. Lucene Core
+3. JavaFX
+4. ControlFX
+5. AnimateFX
