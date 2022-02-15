@@ -4,7 +4,7 @@ An implementation of an advanced movie search engine, using TMDB's data &amp; Lu
 # Description
 This is the core of a simple Movie Database implentation. It downloads data (Movies, Reviews, Actors & Characters, etc.) from TMDB, in JSON Format, then parses them
 and finally stores them into a local index (Internet connection is required, in order to download the data, when the app runs for the first time in a device). After that,
-the index is loaded in the memory. Then, the user can ask queries and retrieve documents.
+the index is loaded in the memory. Then, the user can ask queries and retrieve documents. It comes with a simple front-end window, in order to visualize the results.
 
 # Extremely Fast Parallel Downloading
 The core uses parallel streams and parallel executors, in order to download the data from TMDB very fast. By default, the core uses 2 Threads that constantly fetch pages
