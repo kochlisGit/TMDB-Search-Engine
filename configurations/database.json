@@ -1,0 +1,5 @@
+{
+  "cleanupAfterTermination": true,
+  "hitsPerPage": 100,
+  "numSuggestions": 10
+}
