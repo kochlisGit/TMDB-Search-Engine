@@ -29,3 +29,7 @@ In order to run the engine, You will need to download the following libraries:
 1. JsonIter (0.9.23)
 2. Lucene Core (9.3.0)
 3. Junit 5
+
+# Future work:
+1. Add a Graphical User Interface (GUI)
+2. Create a server-client architecure and send queries as requests.
